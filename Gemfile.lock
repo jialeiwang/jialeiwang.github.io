@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-architect (0.0.4)
+    jekyll-theme-cayman (0.0.4)
       jekyll (~> 3.3)
 
 GEM
@@ -47,7 +47,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-theme-architect!
+  jekyll-theme-cayman!
 
 BUNDLED WITH
    1.15.1
