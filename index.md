@@ -24,7 +24,10 @@ Workshop papers can fall into any of the following categories involving exploiti
 * Dec 11-14  2017: Workshops
 
 **Program Chairs**
-Michael Peran, IBM 
+- Michael Peran, IBM 
 
 **Program Committee Members**  
-Ben Zweig, IBM, Brian Johnston, IBM, Charlie Wang, IBM, Rachel Rosenfeld, IBM
+- Ben Zweig, IBM
+- Brian Johnston, IBM
+- Charlie Wang, IBM
+- Rachel Rosenfeld, IBM
