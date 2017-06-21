@@ -20,7 +20,8 @@ Workshop papers can fall into any of the following categories involving exploiti
 **Paper Submission**
     
   Please submit your workshop paper [here](https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php), or copy the following link to your browser if the button does not work:
-    https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php
+    
+  https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php
 
 **Key Dates**
 * Oct 10, 2017: Due date for full workshop papers submission
