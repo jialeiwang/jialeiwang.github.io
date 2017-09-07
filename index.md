@@ -17,6 +17,12 @@ Workshop papers can fall into any of the following categories involving exploiti
 * Challenges of combining internal organization data with external data (for example, dealing with unique internal taxonomies)
 * Additional related categories not covered above
 
+**Paper Submission**
+    
+  Please submit your workshop paper [here](https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php), or copy the following link to your browser if the button does not work:
+    
+  https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php
+
 **Key Dates**
 * Oct 10, 2017: Due date for full workshop papers submission
 * Nov 1, 2017: Notification of paper acceptance to authors 
@@ -26,8 +32,11 @@ Workshop papers can fall into any of the following categories involving exploiti
 **Program Chairs**
 - Michael Peran, IBM 
 
-**Program Committee Members**  
+**Program Committee Members** 
+- Anshul Sheopuri, IBM
+- Jonathan Debusk, IBM
 - Ben Zweig, IBM
 - Brian Johnston, IBM
+- Emily Beliveau, IBM
 - Charlie Wang, IBM
 - Rachel Rosenfeld, IBM
