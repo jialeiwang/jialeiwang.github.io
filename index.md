@@ -6,7 +6,7 @@ This workshop will share key challenges in EBDSAM, novel approaches to solutions
 
 Invited Talk: Semantic Search
 =====
-Speaker: Dr. Ricardo Baeza-Yates, IEEE fellow, ACM fellow, Chief Technology Officer of [NTENT](http://www.ntent.com/). 
+**by Dr. Ricardo Baeza-Yates, IEEE fellow, ACM fellow, Chief Technology Officer of [NTENT](http://www.ntent.com/).**
 
 Semantic search lies in the cross roads of information retrieval and natural language processing, and is the current frontier of search technology. In this talk we will cover 1. extraction of the entities and concepts from documents, 2. predicting the intention behind the query, i.e., semantic query understanding, and 3. machine learning in semantic ranking.
 
