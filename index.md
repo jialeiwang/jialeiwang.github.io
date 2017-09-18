@@ -4,12 +4,12 @@ layout: default
 While big data has been a topic of research and industry activity, much of it has been focused on unstructured data such as web logs, web crawl data, and social media data. One area which has received less attention but offers significant opportunities is **enterprise big data**. As companies drive towards leveraging analytics to create new value, they are faced with one of the most daunting challenges: **How can we link data from hundreds of business processes, tens of businesses, and combine relevant enterprise data with external data to enable novel analytical insights?** Consequently, Enterprise Big Data Semantics, Analytics and Modeling (EBDSAM) is an emerging area of research. 
 This workshop will share key challenges in EBDSAM, novel approaches to solutions, and new business challenges that can be addressed by big data semantic and analytics modeling. 
 
-Invited Talk: Semantic Search @ [NTENT](http://www.ntent.com/)
+Invited Talk: Semantic Search by Dr. Ricardo Baeza-Yates, CTO of [NTENT](http://www.ntent.com/)
 =====
 
 Semantic search lies in the cross roads of information retrieval and natural language processing, and is the current frontier of search technology. In this talk we will cover 1. extraction of the entities and concepts from documents, 2. predicting the intention behind the query, i.e., semantic query understanding, and 3. machine learning in semantic ranking.
 
-Speaker: Ricardo Baeza-Yates, IEEE fellow, ACM fellow, Chief Technology Officer of NTENT. 
+Speaker: Dr. Ricardo Baeza-Yates, IEEE fellow, ACM fellow, Chief Technology Officer of NTENT. 
 
 Full abstract and speaker bio [here]({% link ricardo_bio.md %}).
 
