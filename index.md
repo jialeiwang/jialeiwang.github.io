@@ -46,6 +46,7 @@ Workshop papers can fall into any of the following categories involving exploiti
 
 **Program Committee Members** 
 - Anshul Sheopuri, IBM
+- Xin Xu, Clari
 - Jonathan Debusk, IBM
 - Ben Zweig, IBM
 - Brian Johnston, IBM
