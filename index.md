@@ -11,7 +11,7 @@ Invited Talk: Semantic Search
 Semantic search lies in the cross roads of information retrieval and natural language processing, and is the current frontier of search technology. In this talk we will cover 1. extraction of the entities and concepts from documents, 2. predicting the intention behind the query, i.e., semantic query understanding, and 3. machine learning in semantic ranking.
 
 Full abstract and speaker bio [here]({% link ricardo_bio.md %}).
-Full abstract and speaker bio ![here](SemanticSearchBaezaYatesRicardo20171009a.doc).
+Full abstract and speaker bio [here]({% link new_ricardo_bio.md %}).
 
 Call for Papers
 =====
