@@ -22,6 +22,12 @@ Risk and decision models and predictive analytics have long been cornerstones fo
 Speaker bio available [here]({% link eva_bio.md %}), and speaker's website [here](http://www2.isye.gatech.edu/~evakylee/DrLee/).
 
 
+
+[Tentative Workshop Schedule]({{ site.baseurl }}/assets/WorkshopSchedule_v5.pdf)
+========
+
+
+
 Call for Papers
 =====
 
