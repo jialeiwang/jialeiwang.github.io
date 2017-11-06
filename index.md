@@ -23,8 +23,9 @@ Speaker bio available [here]({% link eva_bio.md %}), and speaker's website [here
 
 
 
-[Tentative Workshop Schedule]({{ site.baseurl }}/assets/WorkshopSchedule_v5.pdf)
+Workshop Schedule
 ========
+Click [here]({{ site.baseurl }}/assets/WorkshopSchedule_v5.pdf) for the tentative workshop schedule (there may be minor changes in the future).
 
 
 
