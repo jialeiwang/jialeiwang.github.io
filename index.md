@@ -19,7 +19,7 @@ Invited Talk 2: Innovation in Big Data Analytics
 
 Risk and decision models and predictive analytics have long been cornerstones for advancement in industrial, government, and military applications. In particular, multi-source data system modeling and big data analytics and technologies play an increasingly important role in modern business enterprise. Many problems arising in these domains can be formulated into mathematical models and can be analyzed using sophisticated optimization, decision analysis, and computational techniques. In this talk, we will share some of our successes in healthcare, defense, and service sector applications through innovation in predictive and big data analytics.
 
-Speaker bio available [here]({% link eva_bio.md %}), and speaker's website [here](http://www2.isye.gatech.edu/~evakylee/).
+Speaker bio available [here]({% link eva_bio.md %}), and speaker's website [here](http://www2.isye.gatech.edu/~evakylee/DrLee/).
 
 
 Call for Papers
