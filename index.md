@@ -29,9 +29,8 @@ Click [here]({{ site.baseurl }}/assets/WorkshopSchedule_v5.pdf) for the tentativ
 
 
 
-Call for Papers
+Workshop Topics
 =====
-
 Workshop papers can fall into any of the following categories involving exploiting of enterprise big data and / or enterprise applications:
 * Natural Language Processing in business analytics
 * Use of big data to estimate employee value
@@ -46,17 +45,12 @@ Workshop papers can fall into any of the following categories involving exploiti
 * Challenges of combining internal organization data with external data (for example, dealing with unique internal taxonomies)
 * Additional related categories not covered above
 
-**Paper Submission**
-    
-  Please submit your workshop paper [here](https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php), or copy the following link to your browser if the button does not work:
-    
-  https://wi-lab.com/cyberchair/2017/bigdata17/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2017/bigdata17/scripts/ws_submit.php
 
-**Key Dates**
-* Oct 10, 2017: Due date for full workshop papers submission
-* Nov 1, 2017: Notification of paper acceptance to authors 
-* Nov 15, 2017: Camera-ready of accepted papers 
-* Dec 11-14  2017: Workshops
+
+Import Dates
+=========
+* This workshop will be on Dec 11 2017
+* The main conference is Dec 11-14 2017
 
 **Program Chairs**
 - Michael Peran, IBM 
